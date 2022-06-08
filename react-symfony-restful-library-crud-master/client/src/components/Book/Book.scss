@@ -1,0 +1,30 @@
+.book-table td{
+    vertical-align: middle!important;
+}
+
+.book-thumb-wrapper {
+    height: 100px;
+    max-width: 100px;
+
+}
+
+.book-thumb-wrapper img {
+    height: 100%;
+    width: auto;
+}
+
+.page-input{
+    width: 70px!important;
+    text-align: center;
+}
+
+.page-inputs-separator{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.table-loading-spinner{
+    width:8rem!important;
+    height: 8rem!important;
+    border-width: 0.5em!important;
+}
